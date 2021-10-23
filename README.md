@@ -12,13 +12,13 @@ buffered-tcp-device-build\target\Buffered-TCP-Driver-signed.modl
 After installing the module in the target gateway, the following driver option will become available:
 
 <p align="left">
-  <img src="https://gecgithub01.walmart.com/scils-ignition/buffered-tcp-driver/blob/master/deviceType.JPG" width="350" title="Device Type">
+  <img src="https://github.com/Freeno83/buffered-tcp-module/blob/main/deviceType.JPG" width="350" title="Device Type">
 </p>
 
 The settings page looks like this.  The key settings are the IP address and port of the device which provides the data (the server).
 
 <p align="left">
-  <img src="https://gecgithub01.walmart.com/scils-ignition/buffered-tcp-driver/blob/master/deviceSettings.JPG" width="600" title="Device Settings">
+  <img src="https://github.com/Freeno83/buffered-tcp-module/blob/main/deviceSettings.JPG" width="600" title="Device Settings">
 </p>
 
 ### OPC-UA Address Syntax
@@ -29,7 +29,7 @@ ns=1;s=[Device name]port/Message
 ```
 
 <p align="left">
-  <img src="https://gecgithub01.walmart.com/scils-ignition/buffered-tcp-driver/blob/master/messageSyntax.JPG" width="800" title="Message Access Syntax">
+  <img src="https://github.com/Freeno83/buffered-tcp-module/blob/main/messageSyntax.JPG" width="800" title="Message Access Syntax">
 </p>
 
 ### Using the data
@@ -45,11 +45,11 @@ messageList = str(tag.value).split(",")
 The device status will be visible in the gateway just like any other device including Ignitions own TCP driver.
 
 <p align="left">
-  <img src="https://gecgithub01.walmart.com/scils-ignition/buffered-tcp-driver/blob/master/deviceStatus.JPG" width="800" title="Device Status">
+  <img src="https://github.com/Freeno83/buffered-tcp-module/blob/main/deviceStatus.JPG" width="800" title="Device Status">
 </p>
 
 In the system gateway tags in the designer, the enabled and connection status values are available.
 
 <p align="left">
-  <img src="https://gecgithub01.walmart.com/scils-ignition/buffered-tcp-driver/blob/master/designerStatus.JPG" width="300" title="Designer Status">
+  <img src="https://github.com/Freeno83/buffered-tcp-module/blob/main/designerStatus.JPG" width="300" title="Designer Status">
 </p
