@@ -3,11 +3,6 @@ Places received TCP messages into a buffer to help prevent missed messages.  Thi
 
 ## Usage
 
-The module to install is located in: 
-
-```
-buffered-tcp-device-build\target\Buffered-TCP-Driver-signed.modl
-```
 ### Creating an Instance
 After installing the module in the target gateway, the following driver option will become available:
 
