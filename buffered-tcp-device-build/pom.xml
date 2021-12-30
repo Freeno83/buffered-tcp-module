@@ -46,7 +46,7 @@
                     <moduleId>com.walmart.bufferedtcp</moduleId>
                     <moduleName>${module-name}</moduleName>
                     <moduleDescription>${module-description}</moduleDescription>
-                    <moduleVersion>1.0.0.2021102209</moduleVersion>
+                    <moduleVersion>1.0.0.2021120211</moduleVersion>
                     <requiredIgnitionVersion>${ignition-platform-version}</requiredIgnitionVersion>
 
                     <depends>
